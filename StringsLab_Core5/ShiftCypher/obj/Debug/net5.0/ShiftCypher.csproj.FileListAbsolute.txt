@@ -1,0 +1,16 @@
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\bin\Debug\net5.0\ShiftCypher.exe
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\bin\Debug\net5.0\ShiftCypher.deps.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\bin\Debug\net5.0\ShiftCypher.runtimeconfig.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\bin\Debug\net5.0\ShiftCypher.runtimeconfig.dev.json
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\bin\Debug\net5.0\ShiftCypher.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\bin\Debug\net5.0\ref\ShiftCypher.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\bin\Debug\net5.0\ShiftCypher.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ShiftCypher.csproj.AssemblyReference.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ShiftCypher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ShiftCypher.AssemblyInfoInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ShiftCypher.AssemblyInfo.cs
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ShiftCypher.csproj.CoreCompileInputs.cache
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ShiftCypher.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ref\ShiftCypher.dll
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ShiftCypher.pdb
+C:\Users\cornh\OneDrive\Desktop\localrepo\stringslab_core-juum0\StringsLab_Core5\ShiftCypher\obj\Debug\net5.0\ShiftCypher.genruntimeconfig.cache
